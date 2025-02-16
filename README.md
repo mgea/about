@@ -1,7 +1,5 @@
 # about
-CV Miguel Gea
-
-
+CV Miguel Gea [versión PDF](https:/mgea.github.io/CVmgea-en.pdf)  
 
 
 ## Contact
