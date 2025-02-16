@@ -207,7 +207,7 @@ Cultura Digital 
 
   
 
-## Selected papers for Inclusive  Design  
+### Selected papers for Inclusive  Design  
 
 * Gea, M. (2018) Transmedia Literacy applied as a learning framework for children with Intellectual Disabilities. 13th International Conference DisCo 2018: Overcoming the Challenges and Barriers in Open Education. Prague. Program: [http://disconference.eu/wp-content/uploads/2017/01/DisCo-2018-program-final-3.pdf](http://disconference.eu/wp-content/uploads/2017/01/DisCo-2018-program-final-3.pdf) (slides) [https://es.slideshare.net/mgea/transmedia-literacy-applied-as-a-learning-framework-for-children-with-intellectual-disabilities](https://es.slideshare.net/mgea/transmedia-literacy-applied-as-a-learning-framework-for-children-with-intellectual-disabilities) 
 
