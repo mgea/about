@@ -38,12 +38,17 @@ Software Engineering related with the following  issues: 
 - Immersive Storytelling
     
 
-UNESCO ID: 1203.09   ORCID: 0000-0002-2603-3172
+UNESCO ID: 1203.09   
+
+ORCID: 0000-0002-2603-3172
 
 SCOPUS: 15020576100   
 
 Google Scholar ID: [https://scholar.google.es/citations?hl=es&user=7oUT6OIAAAAJ](https://scholar.google.es/citations?hl=es&user=7oUT6OIAAAAJ)
+
 ResearchGate:  [https://www.researchgate.net/profile/Miguel_Gea](https://www.researchgate.net/profile/Miguel_Gea)**
+
+-----
 
 
 ## Position
@@ -63,6 +68,7 @@ During this period, I’m also involved in 
 
 1991 - 1999, Granada
 
+-----
 
 ## Affiliations & memberships
 
@@ -79,6 +85,8 @@ During this period, I’m also involved in 
 * Bachelor on Computer Science.  1985-1990 University of Granada. Degree of 5 years in Computer Science.  
 * PhD in Computer Science,  1997 Granada
 * Doctoral Studies focuses on Software Engineering. Dissertation: Formal Specification of Computer Graphics.
+
+-----
 
 ## Teaching
 
