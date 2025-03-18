@@ -101,6 +101,8 @@ Current courses list:  [https://directorio.ugr.es/static/PersonalUGR/*/show/1ff
 
 A Computer Science bachelor course, specialist on Software Engineering. [http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario](http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario)  (content in spanish) 
 
+Website: https://mgea.github.io/DIU/#/
+
   
 ### Web App Development 
 (Diseño de Aplicaciones para Internet)
@@ -124,6 +126,8 @@ Fine Arts, Bachelor studies.  [https://bellasartes.ugr.es/docencia/grados/gradu
 
 (content in spanish)
 
+Website: https://github.com/mgea/cmi
+
 ### Creativity and Publishing on new media 
 
 (Creatividad e Innovación Audiovisual)
@@ -134,6 +138,8 @@ Faculty of Documentation and Audiovisual Communication. Bachelor Studies. [https
 
 (content in spanish)
 
+Website: https://github.com/mgea/CRIAv
+
 ----
 
 ## Master courses: 
@@ -142,6 +148,9 @@ Faculty of Documentation and Audiovisual Communication. Bachelor Studies. [https
 
 (Creación Multimedia y Periodismo Multiplataforma). En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia. [https://masteres.ugr.es/newmedia_periodismomultimedia/](https://masteres.ugr.es/newmedia_periodismomultimedia/) 
 (content in spanish)
+
+Website: https://github.com/mgea/PeriodismoMultimedia
+
 
 ### Collective Intelligence & (company) training  
 
