@@ -44,7 +44,7 @@ SCOPUS: 15020576100   
 
 Google Scholar ID: [https://scholar.google.es/citations?hl=es&user=7oUT6OIAAAAJ](https://scholar.google.es/citations?hl=es&user=7oUT6OIAAAAJ)
 
-ResearchGate:  [https://www.researchgate.net/profile/Miguel_Gea](https://www.researchgate.net/profile/Miguel_Gea)**
+ResearchGate:  [https://www.researchgate.net/profile/Miguel_Gea](https://www.researchgate.net/profile/Miguel_Gea)
 
 -----
 
@@ -72,7 +72,7 @@ During this period, I’m also involved in 
 
 *  **Asociación de Interacción-Persona Ordenador**  2000-present. Founder member of the Spanish Association related with Human-Computer Interaction.  
 
-  * **CRUE-TIC**** Spanish Chapter of Rector’s ICT delegate. ([http://tic.crue.org](http://tic.crue.org)) 2004-2008
+  * **CRUE-TIC** Spanish Chapter of Rector’s ICT delegate. ([http://tic.crue.org](http://tic.crue.org)) 2004-2008
 
 * **Cátedra Discapacidad y Autonomía Personal**. Universidad de Granada-Hermanas Hospitalarias, Miembro comisión mixta, 2023-present
 
@@ -95,7 +95,6 @@ Current courses list:  [https://directorio.ugr.es/static/PersonalUGR/*/show/1ff
   
 
 ### User Interface Design 
-
 (Diseño de Interfaces de Usuario)
 
 1995-present 
@@ -104,7 +103,6 @@ A Computer Science bachelor course, specialist on Software Engineering. [http://
 
   
 ### Web App Development 
-
 (Diseño de Aplicaciones para Internet)
 
 2024-
@@ -118,7 +116,6 @@ Computer Science, Bachelor studies. specialist on Information Technology 
   
 
 ### Multimedia Interactive Design  
-
 (Creación Multimedia Interactiva)
 
 1995-present
