@@ -136,7 +136,7 @@ Faculty of Documentation and Audiovisual Communication. Bachelor Studies. [https
 
 ----
 
-**Master courses: 
+## Master courses: 
 
 ### Multimedia & multiplatform journalism
 
@@ -298,8 +298,10 @@ Cultura Digital 
 
 * Website Mi Agenda Inclusiva (2024) [https://miagenda.in/](https://miagenda.in/) 
 
-* Spreaker Channel: [https://www.spreaker.com/user/porparadesde](https://www.spreaker.com/user/porparadesde)
-* Youtube channel: [https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw) 
+* RadioPodcast Channel: 
+    * PorParadesde: (2018-2022) - https://www.spreaker.com/user/porparadesde 
+    * Unidiversidad UGR (2023-) - https://unidiversidad.podbean.com/
+* Youtube channel: [Unidiversidad UGR](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw) 
 
 * MuseoGrades. El Museo Virtual Inmersivo e Inclusivo: Interpretando la SmartCity. in the context of the project TIN2013-44586-R e-Training y e-Coaching para la integración socio-laboral (e-Integra) [http://utopolis.ugr.es/museogrades/](http://utopolis.ugr.es/museogrades/) 
 
