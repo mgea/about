@@ -294,18 +294,16 @@ Cultura Digital 
 
 * Patricia Jarpa Candia (2020) Narrativas digitales interactivas: explorando el potencial de la Realidad Aumentada y las historias en el diseño de una campaña publicitaria para móviles. MA Dissertation (TFM) Director: M. Gea in Master de Nuevos Medios Interactivos y Periodismo Multimedia. Website: [https://laformula.github.io/](https://laformula.github.io/)  
 
-* Radio y CanalTV PorParaDesde (2018-19) en Diploma Universitario de Formación en Inclusión Social para personas con Discapacidad Intelectual at  Universidad de Granada. [http://utopolis.ugr.es/porparadesde/](http://utopolis.ugr.es/porparadesde/) 
-
-* Website Mi Agenda Inclusiva (2024) [https://miagenda.in/](https://miagenda.in/) 
-
-* RadioPodcast Channel: 
-    * PorParadesde: (2018-2022) - https://www.spreaker.com/user/porparadesde 
-    * Unidiversidad UGR (2023-) - https://unidiversidad.podbean.com/
-* Youtube channel: [Unidiversidad UGR](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw) 
-
 * MuseoGrades. El Museo Virtual Inmersivo e Inclusivo: Interpretando la SmartCity. in the context of the project TIN2013-44586-R e-Training y e-Coaching para la integración socio-laboral (e-Integra) [http://utopolis.ugr.es/museogrades/](http://utopolis.ugr.es/museogrades/) 
 
 * Editorial Board Member of Applied Sciences (2076-3417)  journal 
+
+* Multimedia Channel UniDiversidad UGR (Curso Universitario de Formación en Inclusión Social para personas con Discapacidad Intelectual at  Universidad de Granada): 
+    * Podcast PorParadesde: (2018-2022) - https://www.spreaker.com/user/porparadesde 
+    * Podcast Unidiversidad UGR (2023-) - https://unidiversidad.podbean.com/
+    * Youtube channel: [Unidiversidad UGR](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw) 
+
+* Website Mi Agenda Inclusiva (2024-) [https://miagenda.in/](https://miagenda.in/) 
 
 * Github repo:  [https://github.com/mgea](https://github.com/mgea) 
 
