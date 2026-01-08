@@ -95,50 +95,37 @@ Current courses list:  [https://directorio.ugr.es/static/PersonalUGR/*/show/1ff
   
 
 ### User Interface Design 
-(Diseño de Interfaces de Usuario)
+> (Diseño de Interfaces de Usuario)
+> 1995-present 
 
-1995-present 
+* A Computer Science bachelor course, specialist on Software Engineering. [http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario](http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario)  (content in spanish) 
 
-A Computer Science bachelor course, specialist on Software Engineering. [http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario](http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario)  (content in spanish) 
-
-Website: https://mgea.github.io/DIU/#/
+* Website: https://mgea.github.io/DIU/#/
 
   
 ### Web App Development 
-(Diseño de Aplicaciones para Internet)
+> (Diseño de Aplicaciones para Internet) 2024-
 
-2024-
-
-Computer Science, Bachelor studies. specialist on Information Technology 
-
+* Computer Science, Bachelor studies. specialist on Information Technology 
 [https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin) 
-
 (content in spanish) 
 
   
 
 ### Multimedia Interactive Design  
-(Creación Multimedia Interactiva)
+> (Creación Multimedia Interactiva) 1995-present
 
-1995-present
+* Fine Arts, Bachelor studies.  [https://bellasartes.ugr.es/docencia/grados/graduadoa-bellas-artes/creacion-multimedia-interactiva/11](https://bellasartes.ugr.es/docencia/grados/graduadoa-bellas-artes/creacion-multimedia-interactiva/11) 
+  (content in spanish)
 
-Fine Arts, Bachelor studies.  [https://bellasartes.ugr.es/docencia/grados/graduadoa-bellas-artes/creacion-multimedia-interactiva/11](https://bellasartes.ugr.es/docencia/grados/graduadoa-bellas-artes/creacion-multimedia-interactiva/11) 
-
-(content in spanish)
-
-Website: https://github.com/mgea/cmi
+* Website: https://github.com/mgea/cmi
 
 ### Creativity and Publishing on new media 
+> (Creatividad e Innovación Audiovisual) 2012-present
 
-(Creatividad e Innovación Audiovisual)
+* Faculty of Documentation and Audiovisual Communication. Bachelor Studies. [https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)  (content in spanish)
 
-2012-present
-
-Faculty of Documentation and Audiovisual Communication. Bachelor Studies. [https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis) 
-
-(content in spanish)
-
-Website: https://github.com/mgea/CRIAv
+* Website: https://github.com/mgea/CRIAv
 
 ----
 
@@ -146,17 +133,16 @@ Website: https://github.com/mgea/CRIAv
 
 ### Multimedia & multiplatform journalism
 
-(Creación Multimedia y Periodismo Multiplataforma). En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia. [https://masteres.ugr.es/newmedia_periodismomultimedia/](https://masteres.ugr.es/newmedia_periodismomultimedia/) 
-(content in spanish)
+> (Creación Multimedia y Periodismo Multiplataforma). En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia.
+> [https://masteres.ugr.es/newmedia_periodismomultimedia/](https://masteres.ugr.es/newmedia_periodismomultimedia/)  (content in spanish)
 
-Website: https://github.com/mgea/PeriodismoMultimedia
+* Website: https://github.com/mgea/PeriodismoMultimedia
 
 
 ### Collective Intelligence & (company) training  
 
-(Inteligencia Colectiva y la Formación en la Empresa). En Máster Gestión y Tecnologías de Procesos de Negocio [https://masteres.ugr.es/mbagestiontic/](https://masteres.ugr.es/mbagestiontic/) 
-
-(content in spanish)
+> (Inteligencia Colectiva y la Formación en la Empresa). En Máster Gestión y Tecnologías de Procesos de Negocio [https://masteres.ugr.es/mbagestiontic/]
+> * (https://masteres.ugr.es/mbagestiontic/)  (content in spanish)
 
   
 ----
@@ -165,27 +151,19 @@ Courses with other partnerships
 
 ### ONCE Foundation and University agreement: Specialization for young people with intellectual disabilities: 
 
-[https://www.fundaciononce.es/en/we-do/university-and-disability](https://www.fundaciononce.es/en/we-do/university-and-disability) 
+* [https://www.fundaciononce.es/en/we-do/university-and-disability](https://www.fundaciononce.es/en/we-do/university-and-disability) 
+* Curso FORMACIÓN EN INCLUSIÓN SOCIAL Y LABORAL DE JÓVENES CON DISCAPACIDAD INTELECTUAL, DEL DESARROLLO Y/O DEL ESPECTRO AUTISTA (8th edition).
+* [https://escuelaposgrado.ugr.es/static/EP_Management/*/showCard/18/D/039](https://escuelaposgrado.ugr.es/static/EP_Management/*/showCard/18/D/039)
 
-Curso FORMACIÓN EN INCLUSIÓN SOCIAL Y LABORAL DE JÓVENES CON DISCAPACIDAD INTELECTUAL, DEL DESARROLLO Y/O DEL ESPECTRO AUTISTA (8th edition). 
-
-[https://escuelaposgrado.ugr.es/static/EP_Management/*/showCard/18/D/039](https://escuelaposgrado.ugr.es/static/EP_Management/*/showCard/18/D/039)
-
-Digital training; Learning English, 8th edition 
-
-2017-present
-
+* Digital training; Learning English, 8th edition  2017-present
   
 
 ### UOC University: teacher assistant in Multimedia
 
 [https://www.uoc.edu/es/estudios/grados/grado-multimedia](https://www.uoc.edu/es/estudios/grados/grado-multimedia) 
 
-Cultura Digital 
-
-2021-present
-
-[https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644)**
+* Cultura Digital  2021-present
+* [https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644)**
 
 
 ## Books
