@@ -243,6 +243,8 @@ Cultura Digital 
 ### Selected papers for Transmedia & Storytelling  
 
 * Miguel Gea (2022) Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto  en Transmedialización y crowdsourcing en la cultura mediática contemporánea, J. Alberich D.  Sánchez-mesa (eds.),  Ed. Universidad de Granada, ISBN 978-84-338-6929-6
+* Gea-Megías, M. (2025): El Cómic digital expandido: análisis y tendencias,  en Gómez-Pérez, F.J. (ed.), El hipersector audiovisual-TIC. Una aproximación multidisciplinar. Salamanca: Comunicación Social Ediciones y Publicaciones. ISBN: 978-84-17600-88-4 D.O.I.:https://doi.org/10.52495/c9.emcs.43.c49 
+
 
 ## Projects
 
