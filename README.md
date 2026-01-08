@@ -133,16 +133,18 @@ Current courses list:  [https://directorio.ugr.es/static/PersonalUGR/*/show/1ff
 
 ### Multimedia & multiplatform journalism
 
-> (Creación Multimedia y Periodismo Multiplataforma). En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia.
-> [https://masteres.ugr.es/newmedia_periodismomultimedia/](https://masteres.ugr.es/newmedia_periodismomultimedia/)  (content in spanish)
+> (Creación Multimedia y Periodismo Multiplataforma).
+
+En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia. [https://masteres.ugr.es/newmedia_periodismomultimedia/](https://masteres.ugr.es/newmedia_periodismomultimedia/)  (content in spanish)
 
 * Website: https://github.com/mgea/PeriodismoMultimedia
 
 
 ### Collective Intelligence & (company) training  
 
-> (Inteligencia Colectiva y la Formación en la Empresa). En Máster Gestión y Tecnologías de Procesos de Negocio [https://masteres.ugr.es/mbagestiontic/]
-> * (https://masteres.ugr.es/mbagestiontic/)  (content in spanish)
+> (Inteligencia Colectiva y la Formación en la Empresa).
+
+En Máster Gestión y Tecnologías de Procesos de Negocio [https://masteres.ugr.es/mbagestiontic/](https://masteres.ugr.es/mbagestiontic/)  (content in spanish)
 
   
 ----
@@ -151,11 +153,11 @@ Courses with other partnerships
 
 ### ONCE Foundation and University agreement: Specialization for young people with intellectual disabilities: 
 
-* [https://www.fundaciononce.es/en/we-do/university-and-disability](https://www.fundaciononce.es/en/we-do/university-and-disability) 
+[https://www.fundaciononce.es/en/we-do/university-and-disability](https://www.fundaciononce.es/en/we-do/university-and-disability) 
 * Curso FORMACIÓN EN INCLUSIÓN SOCIAL Y LABORAL DE JÓVENES CON DISCAPACIDAD INTELECTUAL, DEL DESARROLLO Y/O DEL ESPECTRO AUTISTA (8th edition).
 * [https://escuelaposgrado.ugr.es/static/EP_Management/*/showCard/18/D/039](https://escuelaposgrado.ugr.es/static/EP_Management/*/showCard/18/D/039)
 
-* Digital training; Learning English, 8th edition  2017-present
+  * Digital training; Learning English, 8th edition  2017-present
   
 
 ### UOC University: teacher assistant in Multimedia
@@ -163,8 +165,9 @@ Courses with other partnerships
 [https://www.uoc.edu/es/estudios/grados/grado-multimedia](https://www.uoc.edu/es/estudios/grados/grado-multimedia) 
 
 * Cultura Digital  2021-present
-* [https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644)**
+* [https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20241&SignatureCode=20.644)
 
+---
 
 ## Books
 
