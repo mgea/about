@@ -206,7 +206,11 @@ Courses with other partnerships
 
 * Dulce Romero-Ayuso, Araceli Ortiz-Rubio, Paz Moreno-Ramírez, Lydia Martín-Martín, José Matías Triviño-Juárez, María Serrano-Guzmán, Enrique Cano-Detell, Erika Novoa-Casasola, Miguel Gea, Patrocinio Ariza-Vega (2021) A New Tool for Assessment of Professional Skills of Occupational Therapy Students. Healthcare (Basel, Switzerland) 2021;9 ;FI=3.16
 
-* Romero-Ayuso, Dulce & Francehlla, Maria & Fonseca, Priscilla & Gervilla, Pablo & Triviño-Juárez, José & Gea, Miguel. (2024). TEAttention!: A PILOT STUDY OF OCCUPATIONAL THERAPY AND VIRTUAL REALITY FOR IMPROVING SCHOOL PARTICIPATION IN CHILDREN WITH AUTISM SPECTRUM DISORDER. Journal of Occupational Therapy Schools & Early Intervention. 17. 10.1080/19411243.2024.2351477. [https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477](https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477)
+* Romero-Ayuso, Dulce & Francehlla, Maria & Fonseca, Priscilla & Gervilla, Pablo & Triviño-Juárez, José & Gea, Miguel. (2024). **TEAttention!: A PILOT STUDY OF OCCUPATIONAL THERAPY AND VIRTUAL REALITY FOR IMPROVING SCHOOL PARTICIPATION IN CHILDREN WITH AUTISM SPECTRUM DISORDER**. Journal of Occupational Therapy Schools & Early Intervention. 17. 10.1080/19411243.2024.2351477. [https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477](https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477)
+
+* Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026) 
+**Feasibility of “DiverAcción”: A Web-Based Telerehabilitation System for Executive Functions Training in Children and Adolescents with ADHD—Longitudinal Study Protocol**. Healthcare 2026, 14(3), 323; https://doi.org/10.3390/healthcare14030323
+
 
   
 ### Selected papers for e-Learning 
