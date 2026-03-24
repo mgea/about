@@ -211,6 +211,9 @@ Courses with other partnerships
 * Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026) 
 **Feasibility of “DiverAcción”: A Web-Based Telerehabilitation System for Executive Functions Training in Children and Adolescents with ADHD—Longitudinal Study Protocol**. Healthcare 2026, 14(3), 323; https://doi.org/10.3390/healthcare14030323
 
+* Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026)  **A Multi‑Stakeholder Preliminary Needs Assessment to Inform the Co‑Design of a Digital Telerehabilitation Tool for Children and Adolescents with ADHD**, Disability and Rehabilitation: Assistive Technology  DOI  10.1080/17483107.2026.2648864
+
+
 
   
 ### Selected papers for e-Learning 
