@@ -196,6 +196,18 @@ Courses with other partnerships
 
 ### Selected papers for Inclusive  Design  
 
+
+* DiverAcción Agenda Task: Usability, Acceptability, and Preliminary Evaluation of a Digital Planning Task for Adolescents in OTJR: Occupational Therapy Journal of Research. (2026)
+
+* Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026) **Feasibility of “DiverAcción”: A Web-Based Telerehabilitation System for Executive Functions Training in Children and Adolescents with ADHD—Longitudinal Study Protocol**. Healthcare 2026, 14(3), 323; https://doi.org/10.3390/healthcare14030323
+
+* Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026)  **A Multi‑Stakeholder Preliminary Needs Assessment to Inform the Co‑Design of a Digital Telerehabilitation Tool for Children and Adolescents with ADHD**, Disability and Rehabilitation: Assistive Technology  DOI  10.1080/17483107.2026.2648864
+
+* Romero-Ayuso, Dulce & Francehlla, Maria & Fonseca, Priscilla & Gervilla, Pablo & Triviño-Juárez, José & Gea, Miguel. (2024). **TEAttention!: A PILOT STUDY OF OCCUPATIONAL THERAPY AND VIRTUAL REALITY FOR IMPROVING SCHOOL PARTICIPATION IN CHILDREN WITH AUTISM SPECTRUM DISORDER**. Journal of Occupational Therapy Schools & Early Intervention. 17. 10.1080/19411243.2024.2351477. [https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477](https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477)
+
+* Dulce Romero-Ayuso, Araceli Ortiz-Rubio, Paz Moreno-Ramírez, Lydia Martín-Martín, José Matías Triviño-Juárez, María Serrano-Guzmán, Enrique Cano-Detell, Erika Novoa-Casasola, Miguel Gea, Patrocinio Ariza-Vega (2021) A New Tool for Assessment of Professional Skills of Occupational Therapy Students. Healthcare (Basel, Switzerland) 2021;9 ;FI=3.16
+
+
 * Gea, M. (2018) Transmedia Literacy applied as a learning framework for children with Intellectual Disabilities. 13th International Conference DisCo 2018: Overcoming the Challenges and Barriers in Open Education. Prague. Program: [http://disconference.eu/wp-content/uploads/2017/01/DisCo-2018-program-final-3.pdf](http://disconference.eu/wp-content/uploads/2017/01/DisCo-2018-program-final-3.pdf) (slides) [https://es.slideshare.net/mgea/transmedia-literacy-applied-as-a-learning-framework-for-children-with-intellectual-disabilities](https://es.slideshare.net/mgea/transmedia-literacy-applied-as-a-learning-framework-for-children-with-intellectual-disabilities) 
 
 * Gea, M., Alaman, X., Rodriguez, P.  (2016) Transmedia Storytelling for Social Integration of Children with Cognitive Disabilities. Smart Education and e-Learning 2016. Smart Innovation, Systems and Technologies, vol 59: 463-471.Springer, Cham
@@ -203,15 +215,6 @@ Courses with other partnerships
 * Lasala M. J.; Alamán, X.; Gea, M. (2016) A Proposal for Using Virtual Worlds for the Integration. Ubiquitous Computing and Ambient Intelligence. UCAmI 2016. Lecture Notes in Computer Science, vol 10069:430-436. Springer, Cham
 
 * Gea, M., Medina-Medina, N., Rodríguez-Almendros, M.L., Rodríquez-Fórtiz, M.J. (2004)  Sc@ut: platform for the communication in ubiquitous and adaptive environments applied for children with autism. Lectures Notes in Computer Science Vol 3196 ISSN: 0302-9743
-
-* Dulce Romero-Ayuso, Araceli Ortiz-Rubio, Paz Moreno-Ramírez, Lydia Martín-Martín, José Matías Triviño-Juárez, María Serrano-Guzmán, Enrique Cano-Detell, Erika Novoa-Casasola, Miguel Gea, Patrocinio Ariza-Vega (2021) A New Tool for Assessment of Professional Skills of Occupational Therapy Students. Healthcare (Basel, Switzerland) 2021;9 ;FI=3.16
-
-* Romero-Ayuso, Dulce & Francehlla, Maria & Fonseca, Priscilla & Gervilla, Pablo & Triviño-Juárez, José & Gea, Miguel. (2024). **TEAttention!: A PILOT STUDY OF OCCUPATIONAL THERAPY AND VIRTUAL REALITY FOR IMPROVING SCHOOL PARTICIPATION IN CHILDREN WITH AUTISM SPECTRUM DISORDER**. Journal of Occupational Therapy Schools & Early Intervention. 17. 10.1080/19411243.2024.2351477. [https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477](https://www.tandfonline.com/doi/full/10.1080/19411243.2024.2351477)
-
-* Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026) 
-**Feasibility of “DiverAcción”: A Web-Based Telerehabilitation System for Executive Functions Training in Children and Adolescents with ADHD—Longitudinal Study Protocol**. Healthcare 2026, 14(3), 323; https://doi.org/10.3390/healthcare14030323
-
-* Marina Rivas-García, Carmen Vidal-Ramírez, Abel Toledano-González, María del Carmen Rodríguez-Martínez, Esther Molina-Torres, José-Antonio Marín-Marín, José-Matías Triviño-Juárez, Miguel Gea-Mejías and Dulce Romero-Ayuso (2026)  **A Multi‑Stakeholder Preliminary Needs Assessment to Inform the Co‑Design of a Digital Telerehabilitation Tool for Children and Adolescents with ADHD**, Disability and Rehabilitation: Assistive Technology  DOI  10.1080/17483107.2026.2648864
 
 
 
